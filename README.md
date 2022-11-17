@@ -1,6 +1,6 @@
 ### Per visionare il progetto completo
 
-Link al progetto completo: https://listpeople.netlify.app/
+Link al progetto completo: https://darkmode-articles.netlify.app/
 
 
 ### Per installare il progettino
@@ -9,14 +9,12 @@ Link al progetto completo: https://listpeople.netlify.app/
 - Lanciare comando dal terminale npm install
 - npm run start
 
-Icone: npm install react-icons
-
 
 ____________________________________________
 
 
 ### To view the complete project
-Link to the full project: https://listpeople.netlify.app/
+Link to the full project: https://darkmode-articles.netlify.app/
 
 ### To install the project
 - Download the Zip file or Clone (in this case remove the .git folder)
@@ -24,5 +22,4 @@ Link to the full project: https://listpeople.netlify.app/
 - Run command from terminal npm install
 - npm run start
 
-Icons: npm install react-icons
 
